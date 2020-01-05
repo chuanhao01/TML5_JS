@@ -1,4 +1,4 @@
-function Teach_ML5(){
+function TML5(){
     this.init = function(config){
         this.config = config;
         this.model_url = config.model_url;

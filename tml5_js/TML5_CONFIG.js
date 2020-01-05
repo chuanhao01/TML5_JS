@@ -1,6 +1,6 @@
 // Note for this lib to work, label is the global object the label from the model is stored in
 let label = null;
-let TEACH_ML5_CONFIG = {
+let TML5_CONFIG = {
     starting_pos: {
         'x': 0,
         'y': 0
