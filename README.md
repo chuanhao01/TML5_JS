@@ -14,11 +14,11 @@ Context:
 `tml5.js` is the main wrapper library file.
 `TML5_CONFIG.js` is the config file which contain most of the data for the library.
 
-tml5_js/
-├── index.html
-├── main.js
-├── TML5_CONFIG.js
-└── tml5.js
+tml5_js/  
+├── index.html  
+├── main.js  
+├── TML5_CONFIG.js  
+└── tml5.js  
 
 ### tml5.js
 The code is broken down into methods, `init`, `setUpVideo`, `classifyVideo` and `drawVideo`.
