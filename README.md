@@ -2,7 +2,7 @@
 
 Hi again, this is a short wrapper library I made for m5.js to use with the teachable machines from Google.  
 
-Teachable machines: [Link]('https://teachablemachine.withgoogle.com/')
+Teachable machines: [Link](https://teachablemachine.withgoogle.com/)
 
 I name it TML5 for teachable (machines) machine learning 5.  
 
